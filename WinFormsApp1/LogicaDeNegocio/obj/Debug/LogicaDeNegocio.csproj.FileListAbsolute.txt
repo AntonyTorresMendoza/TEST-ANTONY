@@ -1,0 +1,11 @@
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.AssemblyReference.cache
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.exe.config
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.exe
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\bin\Debug\AccesoDatos.dll
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\bin\Debug\AccesoDatos.pdb
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\bin\Debug\AccesoDatos.dll.config
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\obj\Debug\LogicaDe.3EC85E2B.Up2Date
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.exe
+D:\EXAMEN FINAL 2\WinFormsApp1\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb
